@@ -13,6 +13,12 @@ of Something Important.
 [MKebsi](https://mrkebsi.github.io/) or
 directly mail me at [dev.mkebsi@gmail.com](mailto:dev.mkebsi@gmail.co)
 
+## My Certifications?
+these time, I really work hard on having as much knowledge as I can. Some of the class I were in give me certificates, and I really love to flex with them, or lets say show them to tge public.
+
+### Computer Science
+
+
 <!---
 MrKebsi/MrKebsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
