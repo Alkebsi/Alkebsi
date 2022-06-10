@@ -18,6 +18,7 @@ these time, I really work hard on having as much knowledge as I can. Some of the
 
 ### Computer Science
 
+![Harvard CS50](https://github.com/MrKebsi/MrKebsi/blob/c1e31c82659a41506ced0244d37407c0e574c12c/CS50x.png)
 
 <!---
 MrKebsi/MrKebsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
