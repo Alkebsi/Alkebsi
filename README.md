@@ -30,9 +30,17 @@ these time, I really work hard on having as much knowledge as I can. Some of the
 
 ![HPI Web Techs Certificate](https://github.com/MrKebsi/MrKebsi/blob/afc51f9559c2ca1b14559342bc6f75c29c2f6bf4/Web%20Technologies%20-%20Open%20HPI.jpg)
 
+![HakerRank CSS Skill Certificate](https://github.com/MrKebsi/MrKebsi/blob/afc51f9559c2ca1b14559342bc6f75c29c2f6bf4/HackerRank%20-%20CSS%20Skill%20Certification.jpg)
+
 #### Artificial Intelligence
 ![University of Helsink's Certificate](https://github.com/MrKebsi/MrKebsi/blob/afc51f9559c2ca1b14559342bc6f75c29c2f6bf4/Elements%20of%20AI%20-%20University%20of%20Helsinki%20Certification.png)
 
+### Digital Marketing
+
+![Google and The Open University Certificate](https://github.com/MrKebsi/MrKebsi/blob/afc51f9559c2ca1b14559342bc6f75c29c2f6bf4/Google%20&%20Open%20University%20-%20FDM%20Certification.jpg)
+
+### Others
+![Aalto University Certificate](https://github.com/MrKebsi/MrKebsi/blob/afc51f9559c2ca1b14559342bc6f75c29c2f6bf4/Starting%20Up%20-%20Aalto%20University%20Certification.png)
 <!---
 MrKebsi/MrKebsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
