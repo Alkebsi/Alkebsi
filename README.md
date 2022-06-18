@@ -20,6 +20,19 @@ these time, I really work hard on having as much knowledge as I can. Some of the
 
 ![Harvard CS50](https://github.com/MrKebsi/MrKebsi/blob/c1e31c82659a41506ced0244d37407c0e574c12c/CS50x.png)
 
+![HPI IT Certificate](https://github.com/MrKebsi/MrKebsi/blob/afc51f9559c2ca1b14559342bc6f75c29c2f6bf4/Information%20Service%20Engineering%20-%20Open%20HPI.jpg)
+
+#### Web Development
+
+![FreeCodeCamp Web Design Certificate](https://github.com/MrKebsi/MrKebsi/blob/afc51f9559c2ca1b14559342bc6f75c29c2f6bf4/FreeCodeCamp%20Responsive%20Web%20Design%20Certification.jpg)
+
+![Template Monster CSS and HTML Certificate](https://github.com/MrKebsi/MrKebsi/blob/afc51f9559c2ca1b14559342bc6f75c29c2f6bf4/TemplateMonsterCertification.jpg)
+
+![HPI Web Techs Certificate](https://github.com/MrKebsi/MrKebsi/blob/afc51f9559c2ca1b14559342bc6f75c29c2f6bf4/Web%20Technologies%20-%20Open%20HPI.jpg)
+
+#### Artificial Intelligence
+![University of Helsink's Certificate](https://github.com/MrKebsi/MrKebsi/blob/afc51f9559c2ca1b14559342bc6f75c29c2f6bf4/Elements%20of%20AI%20-%20University%20of%20Helsinki%20Certification.png)
+
 <!---
 MrKebsi/MrKebsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
