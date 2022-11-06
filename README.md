@@ -5,4 +5,4 @@
 </p>
 <br><br>
 <h2>Github Stats</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?alkebsi=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?Alkebsi=anuraghazra" alt=""/>
