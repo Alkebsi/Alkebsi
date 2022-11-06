@@ -5,4 +5,5 @@
 </p>
 <br><br>
 <h2>Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=alkebsi&show_icons=true&count_private=true&theme=transparent" alt=""/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=alkebsi&show_icons=true&count_private=true&theme=dark" alt=""/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkebsi&layout=demo&theme=dark" alt=""/>
