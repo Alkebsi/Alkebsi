@@ -13,10 +13,10 @@ A pro Full-Stack Websites Developer and Digital Marketing Specialist able to wor
 <table>
 <tr>
 <td>
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=alkebsi&show_icons=true&count_private=true&theme=dark" alt=""/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=alkebsi&show_icons=true&count_private=true" alt=""/>
 </td>
 <td>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkebsi&layout=demo&theme=dark" alt=""/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkebsi&layout=demo" alt=""/>
 </td>
 </tr>
 </table>
