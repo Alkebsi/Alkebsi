@@ -19,8 +19,8 @@ A pro Full-Stack Websites Developer and Digital Marketing Specialist able to wor
 <a href="https://reddit.com/user/mkebsi"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt=""/></a>
 <br><br>
 <h2>My Github Stats</h2>
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=alkebsi&show_icons=true&count_private=true" alt=""/>
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkebsi&layout=demo" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api?username=alkebsi&show_icons=true&count_private=true" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkebsi&layout=compact" alt=""/>
 <br><br>
 <h2>My Best Repos</h2>
 <a href="https://github.com/Alkebsi/alkebsi.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alkebsi&repo=alkebsi.github.io" alt=""/></a>
