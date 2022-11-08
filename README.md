@@ -18,8 +18,20 @@ A pro Full-Stack Websites Developer and Digital Marketing Specialist able to wor
 <a href="https://pinterest.com/mkebsi"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt=""/></a>
 <a href="https://reddit.com/user/mkebsi"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt=""/></a>
 <br><br>
-<h2>Github Stats</h2>
+<h2>My Github Stats</h2>
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=alkebsi&show_icons=true&count_private=true" alt=""/>
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkebsi&layout=demo" alt=""/>
+<br><br>
+<h2>My Best Repos</h2>
+<table>
+<tr>
+<td>
+<a href="https://github.com/Alkebsi/alkebsi.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alkebsi&repo=alkebsi.github.io" alt=""/></a>
+</td>
+<td>
+<a href="https://github.com/Alkebsi/sizillion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alkebsi&repo=sizillion" alt=""/></a>
+</td>
+</tr>
+</table>
 </div>
 
