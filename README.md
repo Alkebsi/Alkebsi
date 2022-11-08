@@ -23,15 +23,8 @@ A pro Full-Stack Websites Developer and Digital Marketing Specialist able to wor
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alkebsi&layout=demo" alt=""/>
 <br><br>
 <h2>My Best Repos</h2>
-<table>
-<tr>
-<td>
 <a href="https://github.com/Alkebsi/alkebsi.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alkebsi&repo=alkebsi.github.io" alt=""/></a>
-</td>
-<td>
 <a href="https://github.com/Alkebsi/sizillion"><img src="https://github-readme-stats.vercel.app/api/pin/?username=alkebsi&repo=sizillion" alt=""/></a>
-</td>
-</tr>
-</table>
+
 </div>
 
